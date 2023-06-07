@@ -91,6 +91,7 @@ function calculateTip() {
 
 // reset app
 function resetAll() {
+    selectedInput.classList.remove('selected');
     inputBill.value = "";
     inputTip.value = "";
     inputNumberOfPeople.value = "";
