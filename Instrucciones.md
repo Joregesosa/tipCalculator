@@ -24,8 +24,8 @@ Asimismo, el programa debe contemplar los datos de **SALIDA**:
 Teniendo en cuenta la solicitud del cliente, el resultado final es el siguiente:
 
 <div align="center">
-  <img align="center" src="./assets/tipCalculator-desktop.png">
-  <img align="center" src="./assets/tipCalculator-mobile.jpg">
+  <img align="center" width= "400" src="./assets/tipCalculator-desktop.png">
+  <img align="center" width = "250" src="./assets/tipCalculator-mobile.jpg">
 </div>
 
 ## Tecnologías utilizadas
